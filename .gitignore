@@ -1,0 +1,14 @@
+node_modules
+dist
+*.tsbuildinfo
+.env
+.DS_Store
+/vendor
+/public/build
+/public/hot
+/storage/*.key
+/storage/framework/cache/*
+!/storage/framework/cache/data
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*

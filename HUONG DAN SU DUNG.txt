@@ -1,0 +1,11 @@
+
+Yeu cau
+PHP 8.3
+Laravel 13
+PHP Composer 
+Node.js 20.19+ (or 22.12+) and npm
+
+
+run
+composer run setup
+composer run dev
